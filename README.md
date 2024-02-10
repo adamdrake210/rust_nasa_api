@@ -4,7 +4,7 @@ This is a tool for interacting with the different NASA APIs available. I am usin
 
 ## How to use the CLI Tool
 
-### NASA Image of the day
+### NASA Image of the day - apod
 
 Run the following at the root level of the project:
 
@@ -14,7 +14,7 @@ Run the following at the root level of the project:
 cargo run apod --date=2023-07-20
 ```
 
-### NASA Asteroid - NeoWs
+### NASA Asteroid - NeoWs - asteroids
 
 Run the following at the root level of the project:
 
@@ -24,4 +24,12 @@ Run the following at the root level of the project:
 ```
 cargo run asteroids --start-date 2023-08-20 2023-08-21
 
+```
+
+### CLI Help Command
+
+Not sure how to use one of the commands. Run `--help` after the command. e.g.
+
+```
+cargo run apod --help
 ```
