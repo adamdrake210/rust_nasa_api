@@ -1,0 +1,112 @@
+Name: (2006 GB)
+Estimated Diameter: 0.2272767323 - 0.5082062231
+Miss Distance (km): 19190938.879737545
+
+Name: (2010 LH14)
+Estimated Diameter: 0.1019893859 - 0.2280551997
+Miss Distance (km): 10875667.775746417
+
+Name: (2015 RH2)
+Estimated Diameter: 0.1053307015 - 0.2355266087
+Miss Distance (km): 55124515.985175118
+
+Name: (2016 ND39)
+Estimated Diameter: 0.0242412481 - 0.0542050786
+Miss Distance (km): 18286206.326914013
+
+Name: (2016 TY18)
+Estimated Diameter: 0.046190746 - 0.1032856481
+Miss Distance (km): 69129260.893067391
+
+Name: (2017 SN2)
+Estimated Diameter: 0.1572370824 - 0.3515928047
+Miss Distance (km): 72402282.980660409
+
+Name: (2019 BO1)
+Estimated Diameter: 0.3065878759 - 0.6855513317
+Miss Distance (km): 58720254.008763572
+
+Name: (2019 FN23)
+Estimated Diameter: 0.0330031183 - 0.0737972161
+Miss Distance (km): 28861486.037716956
+
+Name: 613403 (2006 GB)
+Estimated Diameter: 0.2390864572 - 0.5346135707
+Miss Distance (km): 19190960.616308056
+
+Name: (2023 GE)
+Estimated Diameter: 0.0082900085 - 0.0185370226
+Miss Distance (km): 73635458.988489984
+
+Name: (2023 QR)
+Estimated Diameter: 0.0036522036 - 0.0081665754
+Miss Distance (km): 207603.905540168
+
+Name: (2023 RS9)
+Estimated Diameter: 0.0832827346 - 0.1862258558
+Miss Distance (km): 34182062.055807723
+
+Name: (2024 AD3)
+Estimated Diameter: 0.1725658983 - 0.3858690793
+Miss Distance (km): 33737234.644376311
+
+Name: (2005 EY169)
+Estimated Diameter: 0.0925880583 - 0.2070331923
+Miss Distance (km): 59290375.410797766
+
+Name: (2009 SY)
+Estimated Diameter: 0.0670741189 - 0.1499822895
+Miss Distance (km): 30327154.503839238
+
+Name: (2014 DV110)
+Estimated Diameter: 0.0278326768 - 0.0622357573
+Miss Distance (km): 60213197.87661403
+
+Name: (2018 KD2)
+Estimated Diameter: 0.0189913123 - 0.0424658654
+Miss Distance (km): 8764633.859087543
+
+Name: (2019 GJ)
+Estimated Diameter: 0.0361871997 - 0.0809170384
+Miss Distance (km): 27657307.961329885
+
+Name: (2019 KK3)
+Estimated Diameter: 0.0101054342 - 0.0225964377
+Miss Distance (km): 50432478.424806538
+
+Name: (2021 JN5)
+Estimated Diameter: 0.5158874663 - 1.1535594433
+Miss Distance (km): 48409847.080576753
+
+Name: (2022 BY39)
+Estimated Diameter: 0.0027450798 - 0.0061381851
+Miss Distance (km): 10279730.658240785
+
+Name: (2023 PC1)
+Estimated Diameter: 0.0969515991 - 0.2167903661
+Miss Distance (km): 9346779.489118727
+
+Name: (2023 PM1)
+Estimated Diameter: 0.049952241 - 0.1116966065
+Miss Distance (km): 3127231.453464944
+
+Name: (2023 QE)
+Estimated Diameter: 0.0088420909 - 0.0197715164
+Miss Distance (km): 3317796.96944061
+
+Name: (2023 QB1)
+Estimated Diameter: 0.0043107712 - 0.0096391775
+Miss Distance (km): 699635.294233297
+
+Name: (2023 QV4)
+Estimated Diameter: 0.0576175751 - 0.1288368146
+Miss Distance (km): 14861151.43958994
+
+Name: (2023 QU18)
+Estimated Diameter: 0.1063053145 - 0.2377059096
+Miss Distance (km): 46004086.839801573
+
+Name: (2023 YV1)
+Estimated Diameter: 0.0489728047 - 0.1095065203
+Miss Distance (km): 36063990.768985578
+
